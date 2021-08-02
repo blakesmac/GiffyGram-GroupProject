@@ -1,0 +1,13 @@
+.giffygram__feed {
+    padding: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:70%
+}
+
+.postForm{
+    width: 50em;
+    display: flex;
+    text-align: center;
+}
